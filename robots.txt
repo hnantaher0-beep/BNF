@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bnf-pearl.vercel.app/sitemap.xml
